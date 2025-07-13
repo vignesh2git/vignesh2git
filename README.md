@@ -2,7 +2,8 @@
  𝐰𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫
 - 𝐇𝐞𝐫𝐞'𝐬 𝐦𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨]()
 - 𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
-<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-p08) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]() -->𝐯𝐢𝐠𝐧𝐞𝐬𝐡𝐩𝐚𝐥𝐚𝐧𝐢𝟐𝟒𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+<br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-p08)
+<br/>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]() -->𝐯𝐢𝐠𝐧𝐞𝐬𝐡𝐩𝐚𝐥𝐚𝐧𝐢𝟐𝟒𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
 ---
 ---
  ## 𝐈 𝐜𝐨𝐝𝐞 𝐢𝐧
