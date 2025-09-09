@@ -7,7 +7,7 @@
 <br/>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]() -->[𝐯𝐢𝐠𝐧𝐞𝐬𝐡𝐩𝐚𝐥𝐚𝐧𝐢𝟐𝟒𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](vigneshpalani249@gmail.com)
 ---
 ## 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
-- 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 𝐖𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 [🔗](https://raw.githubusercontent.com/vignesh2git/vignesh2git/main/VIGNESH.P_Resume.pdf)
+- 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 𝐖𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 [🔗](https://vignesh2git.github.io/vignesh2git/VIGNESH.P_Resume.pdf)
 - 𝐖𝐞𝐛 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 [🔗]()
 - 𝐃𝐒𝐀 𝐰𝐢𝐭𝐡 𝐂++ [🔗]()
 - 𝐒𝐨𝐟𝐭 𝐒𝐤𝐢𝐥𝐥𝐬 [🔗]()
