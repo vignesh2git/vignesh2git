@@ -4,7 +4,7 @@
 - 𝐇𝐞𝐫𝐞'𝐬 𝐦𝐲 [𝐩𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨](http://vc-portfolio-228.netlify.app)   
 - 𝐒𝐨𝐜𝐢𝐚𝐥 𝐏𝐫𝐞𝐬𝐞𝐧𝐜𝐞
 <br/>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-p08)
-<br/>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](http://vigneshpalani249@gmail.com) -->[𝐯𝐢𝐠𝐧𝐞𝐬𝐡𝐩𝐚𝐥𝐚𝐧𝐢𝟐𝟒𝟗@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦](vigneshpalani249@gmail.com)
+<br/>[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](http://vigneshpalani249@gmail.com)
 ---
 ## 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞
 - 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 𝐖𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 [🔗]()
